@@ -1,6 +1,6 @@
 # OptBias
 
-This repository contains code for running OptBias.
+This repository contains the official implementation of the AISTATS 2026 paper “Black-Box Optimization from Small Offline Datasets via Meta-Learning with Synthetic Tasks.”
 
 ## Training
 
